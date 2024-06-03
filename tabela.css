@@ -1,0 +1,9 @@
+table{
+    width:90%; 
+    background-color:whitesmoke;
+    border: solid #c0c0c0 3px
+}
+
+*{
+    margin: 0 auto
+}
